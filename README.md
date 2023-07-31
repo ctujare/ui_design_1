@@ -1,3 +1,4 @@
 # ui_project
 
-A new Flutter project.
+UI Design in Flutter 
+Day 1.
